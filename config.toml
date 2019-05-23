@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://distributed-text-services.github.io/workshops/"
 languageCode = "en-us"
 title = "DTS Events"
 theme = "book"
 pygmentsUseClassic=false
+relativeURLs=true
 
 [params]
   # (Optional, default true) Show or hide table of contents globally
