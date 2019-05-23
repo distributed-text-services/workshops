@@ -13,7 +13,7 @@ then
     git config user.name "username-blog-bot"
 fi
 
-git checkout -b gh-pages
+git checkout gh-pages
 git merge master
 hugo
 mv public/* .
