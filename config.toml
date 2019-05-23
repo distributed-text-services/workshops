@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "DTS Events"
 theme = "book"
+pygmentsUseClassic=false
 
 [params]
   # (Optional, default true) Show or hide table of contents globally
