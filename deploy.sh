@@ -13,11 +13,8 @@ then
     git config user.name "username-blog-bot"
 fi
 
-git checkout gh-pages
-git merge master
 hugo
 mv public docs
 git add .
 git commit -m "Rebuild site"
-git push --force origin gh-pages
-git checkout master
+git push --force origin master
