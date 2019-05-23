@@ -2,8 +2,6 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-cd public
-
 if [ -n "$GITHUB_AUTH_SECRET" ]
 then
     touch ~/.git-credentials
@@ -18,6 +16,7 @@ fi
 git checkout gh-pages
 git merge master
 hugo
+mv public docs
 git add .
 git commit -m "Rebuild site"
 git push --force origin gh-pages
