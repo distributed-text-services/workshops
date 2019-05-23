@@ -16,7 +16,7 @@ fi
 git checkout gh-pages
 git merge master
 hugo
-mv public .
+mv public/* .
 git add .
 git commit -m "[Rebuild site]"
 #git push --force origin gh-pages
