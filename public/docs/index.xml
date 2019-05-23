@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on DTS Events</title>
+    <link>http://example.org/docs/</link>
+    <description>Recent content in Docs on DTS Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Texts and APIs, Hamburg, 16-18 June 2019</title>
+      <link>http://example.org/docs/2019-hamburg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/2019-hamburg/</guid>
+      <description>Texts and APIs, Hamburg (Germany), 16-18 June 2019 The workshop &amp;ldquo;Texts and APIs&amp;rdquo;, funded by the Procope Programme of the French Ambassy in Germany and Switzerland, is composed of three different moments :
+ Presentation of the Distributed Text Services and its applicability to corpora A round-table and discussions about what DTS needs to be better; or what we can do to support it more A hands-on workshop for people to try to build services around their data  Schedule Monday 15th  9h00.</description>
+    </item>
+    
+  </channel>
+</rss>
