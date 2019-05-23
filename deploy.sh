@@ -14,7 +14,7 @@ then
 fi
 
 git checkout -b gh-pages
-git merge master
+git merge --squash master
 hugo
 mv public/* .
 git add .
