@@ -19,5 +19,5 @@ hugo
 mv public/* .
 git add .
 git commit -m "[Rebuild site]"
-#git push --force origin gh-pages
-#git checkout master
+git push --force origin gh-pages
+git checkout master

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on DTS Events</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Introduction on DTS Events</description>
+    <title>Docs on DTS Events</title>
+    <link>http://example.org/docs/</link>
+    <description>Recent content in Docs on DTS Events</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
