@@ -1,11 +1,15 @@
 # main links
-main:
-  - title : "Hamburg"
-    url: "./events/2019-hamburg"
-useful:
-  - title: "DTS Specifications"
-  url: "//w3id.org/dts"
-  - title: "Events":
-  children:    
-    - title: "(2019) Hamburg"
-      url: "./events/2019-hamburg"
+main: 
+  - 
+    title: Hamburg
+    url: ./events/2019-hamburg
+useful: 
+  - 
+    title: "DTS Specifications"
+    url: "https://w3id.org/dts"
+  - 
+    children: 
+      - 
+        title: "(2019) Hamburg"
+        url: ./events/2019-hamburg
+    title: Events
