@@ -30,7 +30,7 @@ defaults:
       related: false
       classes: wide
   - scope:
-      path: "./events/"
+      path: ""
       type: events
     values:
       layout: single
