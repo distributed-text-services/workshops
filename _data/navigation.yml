@@ -5,6 +5,7 @@ main:
 useful:
   - title: "DTS Specifications"
   url: "//w3id.org/dts"
-  events:
+  - title: "Events":
+  children:    
     - title: "(2019) Hamburg"
-    url: "./events/2019-hamburg"
+      url: "./events/2019-hamburg"
