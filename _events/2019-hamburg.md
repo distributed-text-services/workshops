@@ -5,7 +5,7 @@ type: docs
 
 # Texts and APIs, Hamburg (Germany), 16-18 June 2019
 
-The workshop "Texts and APIs", funded by the Procope Programme of the French Ambassy in Germany and Switzerland, is composed of three different moments :
+The workshop "Texts and APIs", funded by the *Procope Programme* of the French Ambassies in Germany and Switzerland, is composed of three different moments :
 
 - Presentation of the Distributed Text Services and its applicability to corpora
 - A round-table and discussions about what DTS needs to be better; or what we can do to support it more

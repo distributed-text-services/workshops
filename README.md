@@ -1,14 +1,14 @@
-# workshops
-Public repositories for events organized by members of the DTS Tech Comitee and others
+---
+title: Introduction
+type: docs
+---
 
-Built with Hugo Extended for SCSS support : https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.deb
+Welcome to the [Distributed Text Services](https://w3id.org/dts) website for workshops
+======================================================================================
 
-Configuration : https://www.sidorenko.io/post/2018/12/hugo-on-github-pages-with-travis-ci/
 
-Highlighting is done using : 
+This website is made available to share information and ressources about past and upcoming events regarding the Distributed Text Services.
 
-```
-{{< highlight python "linenos=table" >}}
-print("Hello")
-{{< / highlight >}}
-```
+# Upcoming Events 
+
+- [Text And APIs](/docs/2019-hamburg), 16-17 July 2019, Hamburg, Germany
