@@ -1,6 +1,6 @@
 ---
 title: Texts and APIs, Hamburg, 16-18 June 2019
-type: docs
+type: events
 ---
 
 # Texts and APIs, Hamburg (Germany), 16-18 June 2019
