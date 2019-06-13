@@ -1,8 +1,3 @@
----
-title: Introduction
-type: docs
----
-
 Welcome to the [Distributed Text Services](https://w3id.org/dts) website for workshops
 ======================================================================================
 
