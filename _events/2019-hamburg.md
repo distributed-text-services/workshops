@@ -42,8 +42,10 @@ The workshop "Texts and APIs", funded by the *Procope Programme* of the French A
 ### **Thomas Lebarbé** (Consortium Cahiers)
 
 
-### **Pietro Luzzo**
+### The DTS implementation for  Beta maṣāḥǝft **Pietro Luzzo**
+Hiob Ludolf Centre for Ethiopian and Eritrean Studies, Universität Hamburg
 
+Beta maṣāḥǝft is a long-term project funded under survey of the Akademie der Wissenschaften in Hamburg from 2016–2040. To achieve its aims of creating a virtual research environment that shall manage complex data related to the predominantly Christian manuscript tradition of the Ethiopian and Eritrean Highlands, the project has implemented DTS. The API https://betamasaheft.eu/api/dts serves all the available texts as editions or transcriptions of manuscripts, using dts:extensions to achieve a non hierarchical structuring of the corpus.
 
 ### Introducing the VedaWeb APIs by **Francisco Mondaca**
 
@@ -66,8 +68,10 @@ VedaWeb (vedaweb.uni-koeln.de) is a web-based, open-access platform for linguist
 ### **Tobias Schweizer**
 
 
-### **Ernest Suyver**
+### Brill Scholarly Editions **Ernest Suyver**
+Brill
 
+In the context of DTS, Brill develops the Scaife Viewer into a generic open source publication platform; publication being one step in a larger process of content processing and distribution. (https://dh.brill.com/scholarlyeditions/)
 
 ## Venue
 
