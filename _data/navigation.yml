@@ -1,10 +1,4 @@
 # main links
 main:
-  - title : "General"
-    url: "Entry.html"
-  - title : "Collection"
-    url: "Collections-Endpoint.html"
-  - title : "Navigation"
-    url: "Navigation-Endpoint.html"
-  - title : "Document"
-    url: "Documents-Endpoint.html"
+  - title : "Hamburg"
+    url: "./events/2019-hamburg"
