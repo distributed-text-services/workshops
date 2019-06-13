@@ -32,7 +32,7 @@ defaults:
       sidebar:
         nav: "useful"
   - scope:
-      path: ""
+      path: "_events"
       type: events
     values:
       layout: single
