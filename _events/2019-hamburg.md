@@ -2,8 +2,6 @@
 title: Texts and APIs, Hamburg, 16-18 June 2019
 ---
 
-# Texts and APIs, Hamburg (Germany), 16-18 June 2019
-
 The workshop "Texts and APIs", funded by the *Procope Programme* of the French Ambassies in Germany and Switzerland, is composed of three different moments :
 
 - Presentation of the Distributed Text Services and its applicability to corpora

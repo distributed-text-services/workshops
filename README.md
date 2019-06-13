@@ -1,6 +1,8 @@
-Welcome to the [Distributed Text Services](https://w3id.org/dts) website for workshops
-======================================================================================
+---
+title: Welcome page
+---
 
+Welcome to the [Distributed Text Services](https://w3id.org/dts) website for workshops.
 
 This website is made available to share information and ressources about past and upcoming events regarding the Distributed Text Services.
 

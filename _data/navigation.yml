@@ -2,3 +2,9 @@
 main:
   - title : "Hamburg"
     url: "./events/2019-hamburg"
+useful:
+  - title: "DTS Specifications"
+  url: "//w3id.org/dts"
+  events:
+    - title: "(2019) Hamburg"
+    url: "./events/2019-hamburg"

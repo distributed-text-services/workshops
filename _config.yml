@@ -29,6 +29,8 @@ defaults:
       author_profile: false
       related: false
       classes: wide
+      sidebar:
+        nav: "useful"
   - scope:
       path: ""
       type: events
@@ -39,6 +41,8 @@ defaults:
       related: false
       sidebar: false
       classes: wide
+      sidebar:
+        nav: "useful"
 
 bradcrumbs: true
 breadcrumb_home_label : "Home"
