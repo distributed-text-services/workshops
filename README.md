@@ -4,4 +4,4 @@ This website is made available to share information and ressources about past an
 
 # Upcoming Events 
 
-- [Text And APIs](/docs/2019-hamburg), 16-17 July 2019, Hamburg, Germany
+- [Text And APIs](./events/2019-hamburg), 16-17 July 2019, Hamburg, Germany
