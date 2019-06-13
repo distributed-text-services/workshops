@@ -43,11 +43,6 @@ defaults:
       share: true
       author_profile: false
       related: false
-      toc: true
-      toc_label: "Table of Contents"
-      toc_icon: "cog"
-      toc_level: 3
-      toc_left: true
       sidebar: false
       classes: wide
 
