@@ -36,22 +36,25 @@ The workshop "Texts and APIs", funded by the *Procope Programme* of the French A
 ### **Vincent Jolivet**
 
 
-### **Juan Garcés**
+### **Juan Garcés**, *Digital collections and APIs: some case scenarios (title TBC)*
+
+[Saxon State and University Library Dresden (SLUB)](https://www.slub-dresden.de/en/homepage/)
 
 
 ### **Thomas Lebarbé** (Consortium Cahiers)
 
 
-### The DTS implementation for  Beta maṣāḥǝft **Pietro Luzzo**
-Hiob Ludolf Centre for Ethiopian and Eritrean Studies, Universität Hamburg
+### **Pietro Luzzo**, *The DTS implementation for  Beta maṣāḥǝft*
+
+[Hiob Ludolf Centre for Ethiopian and Eritrean Studies](https://www.aai.uni-hamburg.de/en/ethiostudies.html), Universität Hamburg
 
 Beta maṣāḥǝft is a long-term project funded under survey of the Akademie der Wissenschaften in Hamburg from 2016–2040. To achieve its aims of creating a virtual research environment that shall manage complex data related to the predominantly Christian manuscript tradition of the Ethiopian and Eritrean Highlands, the project has implemented DTS. The API https://betamasaheft.eu/api/dts serves all the available texts as editions or transcriptions of manuscripts, using dts:extensions to achieve a non hierarchical structuring of the corpus.
 
-### Introducing the VedaWeb APIs by **Francisco Mondaca**
+### **Francisco Mondaca**, *Introducing the VedaWeb APIs*
 
 Cologne Center of eHumanities, University of Cologne
 
-VedaWeb (vedaweb.uni-koeln.de) is a web-based, open-access platform for linguistic research on Old Indic texts. It provides access to texts and dictionaries through a web application as also APIs for direct access to data encoded in TEI-XML. The focus of this presentation is to show the structure of these APIs and to discuss the potential implementation of DTS in this project.
+[VedaWeb](http://vedaweb.uni-koeln.de) is a web-based, open-access platform for linguistic research on Old Indic texts. It provides access to texts and dictionaries through a web application as also APIs for direct access to data encoded in TEI-XML. The focus of this presentation is to show the structure of these APIs and to discuss the potential implementation of DTS in this project.
 
 ### **Matt Munson**
 
@@ -59,16 +62,21 @@ VedaWeb (vedaweb.uni-koeln.de) is a web-based, open-access platform for linguist
 ### **Julien Pilla**
 
 
-### **Matteo Romanello**
+### **Matteo Romanello**, * DTS & Resolution Services for Text URIs*
 
+[DHLAB, EPFL](http://dhlab.epfl.ch)
 
 ### **---**
 
 
-### **Tobias Schweizer**
+### **Tobias Schweizer**, *The Bernoulli-Euler Online (BEOL) and its APIs (title TBC)*
+
+[Digital Humanities Lab](https://dhlab.philhist.unibas.ch/), University of Basel
+
+The project Bernoulli-Euler Online (BEOL) integrates the two edition projects Basler Edition der Bernoulli-Briefwechsel (BEBB) and Leonhardi Euleri Opera Omnia (LEOO) into one digital platform available on the web, offering a multilayer access to the user (facsimile, transcription, critical text, translations, indices, and commentaries). BEOL is implemented within [Knora/SALSAH](https://www.knora.org), a generic virtual research environment (VRE) for the humanities.
 
 
-### Brill Scholarly Editions **Ernest Suyver**
+### **Ernest Suyver**, *Brill Scholarly Editions*
 Brill
 
 In the context of DTS, Brill develops the Scaife Viewer into a generic open source publication platform; publication being one step in a larger process of content processing and distribution. (https://dh.brill.com/scholarlyeditions/)
