@@ -66,7 +66,7 @@ Cologne Center of eHumanities, University of Cologne
 ### **Julien Pilla**
 
 
-### **Matteo Romanello**, * DTS & Resolution Services for Text URIs*
+### **Matteo Romanello**, *DTS & Resolution Services for Text URIs*
 
 [DHLAB, EPFL](http://dhlab.epfl.ch)
 
