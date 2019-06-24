@@ -85,13 +85,15 @@ In the context of DTS, Brill develops the Scaife Viewer into a generic open sour
 
 ### **Francisco Mondaca**, *Introducing the VedaWeb APIs*
 
-Cologne Center of eHumanities, University of Cologne
+[Cologne Center of eHumanities](https://cceh.uni-koeln.de/), University of Cologne
 
 [VedaWeb](http://vedaweb.uni-koeln.de) is a web-based, open-access platform for linguistic research on Old Indic texts. It provides access to texts and dictionaries through a web application as also APIs for direct access to data encoded in TEI-XML. The focus of this presentation is to show the structure of these APIs and to discuss the potential implementation of DTS in this project.
 
 ### **Matt Munson**, *CTS to DTS in the 'Formulae - Litterae - Chartae' Project*
 
-The "Formulae - Litterae - Chartae" project has developed its corpus and reading environment based on the current version of the CapiTainS tool suite and, especially, MyCapytain version 2.0, which is an implementation of the Canonical Text Services API. As CapiTainS moves toward the more general DTS standard, our project is planning to make both its corpus and its tools compatible with this new standard. This talk will reflect on the reasons for this change and the changes we will make to our corpus to fully embrace this new standard.
+[Formulae - Litterae - Chartae Langzeitvorhaben](https://www.formulae.uni-hamburg.de/), Universität Hamburg
+
+The "Formulae - Litterae - Chartae" project has developed its [corpus](https://github.com/Formulae-Litterae-Chartae/formulae-open) and [reading environment](https://werkstatt.formulae.uni-hamburg.de/) based on the current version of the CapiTainS tool suite and, especially, MyCapytain version 2.0, which is an implementation of the Canonical Text Services API. As CapiTainS moves toward the more general DTS standard, our project is planning to make both its corpus and its tools compatible with this new standard. This talk will reflect on the reasons for this change and the changes we will make to our corpus to fully embrace this new standard.
 
 ### **Pietro Luzzo**, *The DTS implementation for  Beta maṣāḥǝft*
 
