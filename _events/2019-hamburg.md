@@ -43,6 +43,10 @@ The workshop "Texts and APIs", funded by the *Procope Programme* of the French A
 
 ### **Thomas Lebarbé** (Consortium Cahiers)
 
+### **Stefan Dumont** *Texts and APIs in digital editions of correspondence and diaries*
+
+[Berlin-Brandenburgische Akademie der Wissenschaften](http://www.bbaw.de/telota/projekte/correspsearch-briefeditionen-vernetzen)
+
 
 ### **Pietro Luzzo**, *The DTS implementation for  Beta maṣāḥǝft*
 
