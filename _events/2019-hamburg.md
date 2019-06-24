@@ -69,12 +69,14 @@ Cologne Center of eHumanities, University of Cologne
 ### **---**
 
 
-### **Tobias Schweizer**, *The Bernoulli-Euler Online (BEOL) and its APIs (title TBC)*
+### **Tobias Schweizer**, *The Bernoulli-Euler Online Platform (BEOL) and its RESTful API*
 
 [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/), University of Basel
 
-The project Bernoulli-Euler Online (BEOL) integrates the two edition projects Basler Edition der Bernoulli-Briefwechsel (BEBB) and Leonhardi Euleri Opera Omnia (LEOO) into one digital platform available on the web, offering a multilayer access to the user (facsimile, transcription, critical text, translations, indices, and commentaries). BEOL is implemented within [Knora/SALSAH](https://www.knora.org), a generic virtual research environment (VRE) for the humanities.
 
+The project [Bernoulli-Euler Online (BEOL)](https://dhlab.philhist.unibas.ch/en/home/) integrates several edition projects relating to the Bernoulli and Leonhard Euler into one platform available on the web, offering a multilayer access to the user (facsimiles, transcriptions, critical texts, translations, indices, and commentaries).
+
+BEOL is implemented within [Knora](https://knora.org), a generic system based on RDF to store and work with humanities data. Knora offers a RESTful API that can be used to access BEOL's contents, including the edited texts.
 
 ### **Ernest Suyver**, *Brill Scholarly Editions*
 Brill
