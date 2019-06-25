@@ -8,7 +8,7 @@ The workshop "Texts and APIs", funded by the *Procope Programme* of the French A
 - A round-table and discussions about what DTS needs to be better; or what we can do to support it more
 - A hands-on workshop for people to try to build services around their data
 
-Participation is open and free, but you will need to register here: https://forms.gle/89wbTBuZnLk5ecFz9 (registration closes July 1).
+Participation is open and free, but you will need to register here: <https://forms.gle/89wbTBuZnLk5ecFz9> (registration closes July 1).
 
 ## Schedule
 
