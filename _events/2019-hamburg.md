@@ -111,5 +111,3 @@ Beta maṣāḥǝft is a long-term project funded under survey of the Akademie d
 The meeting will take place at the University of Hamburg, Überseering 35, 22297 Hamburg
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.013759136199953%2C53.603201398405375%2C10.021977424621584%2C53.606581721396914&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/53.60489/10.01787">Enlarge</a></small>
-
-## Schedule
