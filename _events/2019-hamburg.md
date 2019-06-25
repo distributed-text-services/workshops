@@ -81,7 +81,7 @@ BEOL is implemented within [Knora](https://knora.org), a generic system based on
 
 Brill
 
-In the context of DTS, Brill develops the Scaife Viewer into a generic open source publication platform; publication being one step in a larger process of content processing and distribution. (https://dh.brill.com/scholarlyeditions/)
+In the context of DTS, Brill is developing the Scaife Viewer into a generic open source publication platform; publication being one step in a larger process of content processing and distribution. (https://dh.brill.com/scholarlyeditions/)
 
 ### **Francisco Mondaca**, *Introducing the VedaWeb APIs*
 
