@@ -5,8 +5,10 @@ description: The Distributed Text Services (DTS) Specification defines a Hyperme
 repository: "distributed-text-services/workshops"
 url: "https://distributed-text-services.github.io"
 baseurl: "/workshops"
+
 search: true
 search_full_content: true
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
