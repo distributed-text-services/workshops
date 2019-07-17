@@ -16,7 +16,7 @@ This event has occured. You can find the presentations that were given :
 
 - Pietro Maria Luzzio, [The DTS implementation for Beta maṣāḥǝft](/downloads/2019-hamburg/p_luzzio.pdf)
 - Thibault Clérice, [What's DTS](/downloads/2019-hamburg/t_clerice.pdf)
-
+- Matteo Romanello & Hugh Cayless, [Towards Resolution Services for Text URIs](/downloads/2019-hamburg/m_romanello_h_cayless.pdf)
 
 ## Schedule
 
