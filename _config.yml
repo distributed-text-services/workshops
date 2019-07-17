@@ -3,6 +3,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 title: DTS Events
 description: The Distributed Text Services (DTS) Specification defines a Hypermedia-Driven Web API for working with collections of text as machine-actionable data.
 repository: "distributed-text-services/workshops"
+url: "https://distributed-text-services.github.io"
+baseurl: "/workshops"
 search: true
 search_full_content: true
 plugins:
