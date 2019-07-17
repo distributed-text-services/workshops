@@ -10,6 +10,14 @@ The workshop "Texts and APIs", funded by the *Procope Programme* of the French A
 
 Participation is open and free, but you will need to register here: <https://forms.gle/89wbTBuZnLk5ecFz9> (registration closes **July 7**).
 
+## Presentations
+
+This event has occured. You can find the presentations that were given :
+
+- Pietro Maria Luzzio, [The DTS implementation for Beta maṣāḥǝft](/downloads/2019-hamburg/p_luzzio.pdf)
+- Thibault Clérice, [What's DTS](/downloads/2019-hamburg/t_clerice.pdf)
+
+
 ## Schedule
 
 ### Monday 15th
