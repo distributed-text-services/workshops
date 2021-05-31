@@ -1,11 +1,15 @@
 # main links
 main: 
+  - title: "Hackathon"
+    url: ./events/2021-hackathon
   - title: Hamburg
     url: ./events/2019-hamburg
 useful: 
   - title: "DTS Specifications"
     url: "https://w3id.org/dts"
   - children: 
+      - title: "(2021) Hackathon"
+        url: ./events/2021-hackathon
       - title: "(2019) Hamburg"
         url: ./events/2019-hamburg
     title: Events

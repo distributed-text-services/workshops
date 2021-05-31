@@ -16,6 +16,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-font-awesome-sass
 
 collections:
   events:
