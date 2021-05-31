@@ -27,7 +27,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: page
+      type: pages
     values:
       layout: single
       share: true
