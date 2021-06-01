@@ -16,6 +16,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-font-awesome-sass
 
 collections:
   events:
@@ -26,7 +27,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: page
+      type: pages
     values:
       layout: single
       share: true
