@@ -41,4 +41,4 @@ Participation to the hackathon is free, but participants need to send an email t
     - team information needed: team name, names of participants, hack description (200 words max.) 
 - **8 October**: hackathon ends
 
-(a more detailed scheduled of the hackathon will be added soon)
+(a more detailed schedule of the hackathon will be added soon)
