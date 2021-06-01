@@ -11,11 +11,13 @@ The hackathon will take place fully online between **27 September - 8 October 20
 We propose two types of hacks:
 1. **data hacks**, aimed at exposing new or already existing textual resources via a DTS-compliant API with the goal of enlarging the variety of domains, languages and periods covered by DTS. Participants proposing a data hack *may* be affiliated with the institution owning the data, but this is not strictly necessary (e.g. in case of open data).
 2. **tool hacks**, aimed at enlarging the offer of DTS-compatible tools by extending existing software or developing new ones. Ideas for tool hacks include:
-- development of DTS client libraries in any programming language (e.g., Go, Java, Ruby);
+- development of DTS client libraries in any programming language (e.g., Javascript, Python, Go, Java, Ruby, etc.);
 - development of generic viewers for DTS texts collections;
 - extending existing annotation tools (e.g. [Recogito](https://recogito.pelagios.org/), [INCEpTION](https://inception-project.github.io/)) to support DTS as a way of importing TEI documents to annotate;
 - adding integration with tools/libraries that perform linguistic and/or semantic enrichment of textual data such as [NLTK](http://nltk.org/) , [CLTK](http://cltk.org/) or [DHTK](https://dhtk.unil.ch/);
-- integration with digital editing tools such as collation tools (e.g., [CollateX](https://collatex.net/)) or publication tools (e.g., [EFES](https://github.com/EpiDoc/EFES), [ediarum](https://www.ediarum.org/))
+- integration with digital editing tools such as collation tools (e.g., [CollateX](https://collatex.net/)) or publication tools (e.g., [eXistDB](http://exist-db.org/) / [TEI Publisher](https://teipublisher.com/), [EFES](https://github.com/EpiDoc/EFES), [ediarum](https://www.ediarum.org/))
+
+As far as code licensing is concerned, anything produced by hackathon participants is property of its author(s), yet it must be made available to the community under an open license (including non-commercial licenses) by the end of the hackathon. 
 
 ## Prizes
 
