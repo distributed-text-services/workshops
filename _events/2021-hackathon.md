@@ -2,7 +2,7 @@
 title: DTS Hackathon
 ---
 
-The first DTS hackathon is organised by the DTS community and generously funded by the [dhCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) and the [École Nationale des Chartes](http://www.chartes.psl.eu/). The **goal** of this hackathon is to raise awareness about the [DTS specifications](https://w3id.org/dts), encourage their use and, ultimately, to improve the ecosystem of datasets and tools around DTS.
+The first DTS hackathon is organised by the DTS community and generously funded by the [dhCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) and the [École Nationale des Chartes](http://www.chartes.psl.eu/). The **goal** of this hackathon is to raise awareness about the [DTS specifications](https://w3id.org/dts), encourage their use and, ultimately, to improve the ecosystem of datasets and tools around DTS. More information on DTS in the form of presentations can be found [here](https://github.com/distributed-text-services/presentations).
 
 ## Format
 
