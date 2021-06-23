@@ -31,11 +31,18 @@ The contributions developed during the hackathon will be evaluated by an interna
 
 ## Registration
 
-Participation to the hackathon is free, but participants need to send an email to the organizers (Matteo Romanello, [matteo.romanello@unil.ch](mailto:matteo.romanello@unil.ch) or Pietro Liuzzo, [pietro.liuzzo@uni-hamburg.de](mailto:pietro.liuzzo@uni-hamburg.de)).
+Participation to the hackathon is free
+Participant registration (form) : https://forms.gle/A5SM2mrExYqT6iZ76
+• Possible from 23 June (today!) to 24 September (3 days before Hackathon starts)
+• Each team member should register as a participant
+• Participants don’t need to have a team to register
+Hacks and hack ideas must be registered via a GH issue at: https://github.com/distributed-text-services/workshops by using the “Hack Idea” template
+
+To reach the organisers: email Matteo Romanello, [matteo.romanello@unil.ch](mailto:matteo.romanello@unil.ch) or Pietro Liuzzo, [pietro.liuzzo@uni-hamburg.de](mailto:pietro.liuzzo@uni-hamburg.de).
 
 ## Important dates
 
-- **1 July**: hackathon registration opens
+- **23 June**: hackathon registration opens
 - **24 September (midnight CEST)**: hackathon registration closes
 - **27 September**: hackathon begins
 - **28 September (midnight CEST)**: deadline to communicate teams and hacks. Note that:
