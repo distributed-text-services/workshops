@@ -52,3 +52,4 @@ defaults:
 bradcrumbs: true
 breadcrumb_home_label : "Home"
 breadcrumb_separator  : "/"
+markdown: kramdown

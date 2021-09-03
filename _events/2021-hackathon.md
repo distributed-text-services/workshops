@@ -4,6 +4,10 @@ title: DTS Hackathon
 
 The first DTS hackathon is organised by the DTS community and generously funded by the [dhCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) and the [École Nationale des Chartes](http://www.chartes.psl.eu/). The **goal** of this hackathon is to raise awareness about the [DTS specifications](https://w3id.org/dts), encourage their use and, ultimately, to improve the ecosystem of datasets and tools around DTS. More information on DTS in the form of presentations can be found [here](https://github.com/distributed-text-services/presentations).
 
+**Contents**:
+* TOC
+{:toc}
+
 ## Format
 
 The hackathon will take place fully online between **27 September - 8 October 2021**.
@@ -27,29 +31,39 @@ The contributions developed during the hackathon will be evaluated by an interna
 3. **largest DTS corpus**
 4. **most inclusive DTS corpus** (i.e. a corpus of texts whose language, time period or genre is currently underrepresented in the [DTS offer](https://distributed-text-services.github.io/specifications#reference-implementations)).
 
-(Prizes will have an individual value in the range of 300-400 CHF).
+Category winners will be awarded a prize of their choice between the two following options:
+1. One [Remarkable2 e-ink reader](https://remarkable.com/store/remarkable-2)
+2. One [Transkribus ScanTent](https://readcoop.eu/scantent/) + one [SanDisk portable SSD drive (1TB)](https://www.galaxus.ch/it/s1/product/sandisk-portable-ssd-2000gb-ssd-esterne-14967106)
 
 ## Registration
 
-Participation to the hackathon is free.
-
-Participant registration [form](https://forms.gle/A5SM2mrExYqT6iZ76)
-- Possible from 23 June (today!) to 24 September (3 days before Hackathon starts)
-- Each team member should register as a participant
+Participation to the hackathon is free, but participants are required to register using this [form](https://forms.gle/A5SM2mrExYqT6iZ76). 
+Please note that:
 - Participants don’t need to have a team to register
-
-Hacks and hack ideas must be registered via a [GH issue](https://github.com/distributed-text-services/workshops) by using the “Hack Idea” template
+- Each team member must be individually registered for the hackathon
+- Hacks and hack ideas must be registered via a [GH issue](https://github.com/distributed-text-services/workshops) by using the “Hack Idea” template
 
 To reach the organisers: email Matteo Romanello, [matteo.romanello@unil.ch](mailto:matteo.romanello@unil.ch) or Pietro Liuzzo, [pietro.liuzzo@uni-hamburg.de](mailto:pietro.liuzzo@uni-hamburg.de).
 
-## Important dates
+## Key dates
 
-- **23 June**: hackathon registration opens
-- **24 September (midnight CEST)**: hackathon registration closes
-- **27 September**: hackathon begins
-- **28 September (midnight CEST)**: deadline to communicate teams and hacks. Note that:
-    - each team member needs to be individually registered for the hackathon
-    - team information needed: team name, names of participants, hack description (200 words max.) 
-- **8 October**: hackathon ends
+| Date | Event | 
+| --- | --- | 
+| 23.06 | Hackathon registration opens| 
+| 24.09 | Hackathon registration closes | 
+| 27.09 | Hackathon begins | 
+| 28.09 | Team registration closes | 
+| 08.10 | Hackathon ends | 
 
-(a more detailed schedule of the hackathon will be added soon)
+## Hackathon schedule
+
+The hackathon will run fully online, and mostly asynchronously, between September 27 and October 10, 2021.
+
+| Date | Event | Details |
+| --- | --- | --- |
+| 27.09 | **Hackathon opening & pitch of hack ideas** (plenary) | 17:00-18:00 (CET) on Zoom |
+| 28.09 | **Team registration closes** | 23:59 (CET) |
+| 04.10 | **Mid-hackathon check-in** (optional) | 17:00-18:00 (CET) on Zoom |
+| 08.10 | **Hackation closing & presentation of hack results with jury** (plenary) | 17:00-18:30 (CET) on Zoom |
+
+**NB**: Zoom details for the synchronous online sessions will be communicated to registered participants by email.
