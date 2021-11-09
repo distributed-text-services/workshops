@@ -4,8 +4,7 @@ title: DTS Hackathon
 
 The first DTS hackathon was organised by the DTS community and generously funded by the [dhCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) and the [École Nationale des Chartes](http://www.chartes.psl.eu/). The **goal** of this hackathon is to raise awareness about the [DTS specifications](https://w3id.org/dts), encourage their use and, ultimately, to improve the ecosystem of datasets and tools around DTS. More information on DTS in the form of presentations can be found [here](https://github.com/distributed-text-services/presentations).
 
-**Winners Announcement**
-https://dhcenter-unil-epfl.ch/en/2021/11/05/hackathon-generates-new-tools-for-digital-text-collections/  
+**[Winners Announcement](https://dhcenter-unil-epfl.ch/en/2021/11/05/hackathon-generates-new-tools-for-digital-text-collections/)**
 A list of all proposed Hacks has been added at the end of this page.
 
 **Contents**:
