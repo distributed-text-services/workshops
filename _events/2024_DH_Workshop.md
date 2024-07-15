@@ -1,5 +1,8 @@
-# Schedule
+---
+title: DH 2024 Workshop
+---
 
+# Schedule
 Starts at 1:30pm on August 6th, 2024
 
 ## 1:30-2:10pm
