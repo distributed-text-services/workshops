@@ -4,6 +4,7 @@ This website is made available to share information and resources about past and
 
 # Upcoming Events
 
+- [Workshop at DH 2024](./events/2024_DH_Workshop), 6 August 2024 (George Mason University, Arlington, VA, USA)
 
 # Past Events 
 
