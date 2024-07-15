@@ -1,5 +1,7 @@
 # main links
 main: 
+  - title: "DH 2024 Workshop"
+    url: ./events/2024_DH_Workshop
   - title: "Hackathon"
     url: ./events/2021-hackathon
   - title: Hamburg
@@ -8,6 +10,8 @@ useful:
   - title: "DTS Specifications"
     url: "https://w3id.org/dts"
   - children: 
+      - title: "DH 2024 Workshop"
+        url: ./events/2024_DH_Workshop
       - title: "(2021) Hackathon"
         url: ./events/2021-hackathon
       - title: "(2019) Hamburg"
