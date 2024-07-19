@@ -1,6 +1,14 @@
 ---
 title: DH 2024 Workshop
 ---
+# Distributed Text Services: a FAIR API specification for publishing digital text collections
+
+This workshop aims to introduce participants to DTS and its potential for publishing text collections, expand the DTS community, encourage adoption of the API, and introduce participants to the existing implementations and tools for working with DTS APIs.
+
+The following audiences are targeted by this workshop:
+1. Research software engineers who are deploying text-based collections or who may be interested in developing implementations;
+2. People working in digital research infrastructures who may be interested in promoting the adoption of DTS by Research Institutions;
+3. Researchers who produce or work with collections of digital texts and are looking for FAIR solutions to textual data management in the context of research projects. 
 
 # Schedule
 Starts at 1:30pm on August 6th, 2024
